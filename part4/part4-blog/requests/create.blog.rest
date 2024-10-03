@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/blogs/
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZlZWZlZTEiLCJpZCI6IjY2ZmVjOWE3ZWMxMWYyMDIyYmM2M2NmYSIsImlhdCI6MTcyNzk3MzgxMX0.UZf0qbPeB8iDB2CrkF99i0e92d0cFzohIkHiIJJAzy4
+
+{
+    "title": "5 Ways to stop jumping on humans even when you are really excited ",
+    "author": "Fiona",
+    "url": "fiona.com",
+    "likes": 898898
+}
